@@ -1,0 +1,10 @@
+PyQt6>=6.6
+numpy>=1.26
+sympy>=1.12
+matplotlib>=3.8
+
+# Versiones exactas con las que este proyecto fue probado:
+# PyQt6==6.11.0
+# numpy==2.4.4
+# sympy==1.14.0
+# matplotlib==3.10.8
